@@ -1,0 +1,64 @@
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre_MarkupCompile.cache
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre_MarkupCompile.lref
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\WpfAppPostgre.exe.config
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\WpfAppPostgre.exe
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\WpfAppPostgre.pdb
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignColors.dll
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\App.baml
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.g.resources
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.exe
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.pdb
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MahApps.Metro.dll
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.MahApps.dll
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\System.Windows.Interactivity.dll
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MahApps.Metro.pdb
+c:\users\user\documents\visual studio 2017\Projects\WpfAppPostgre\WpfAppPostgre\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre_MarkupCompile.cache
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre_MarkupCompile.lref
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.exe
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.pdb
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\WpfAppPostgre.exe.config
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\WpfAppPostgre.exe
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\WpfAppPostgre.pdb
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignColors.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\App.baml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.g.resources
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.Properties.Resources.resources
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\Home.g.cs
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\Home.baml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\WpfAppPostgre.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\Domain\SampleMessageDialog.baml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\Domain\SampleMessageDialog.g.cs
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\SelectTest.g.cs
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\obj\Debug\SelectTest.baml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\Npgsql.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\Npgsql.xml
+C:\Users\user\Desktop\WpfAppPostgre\WpfAppPostgre\bin\Debug\System.Threading.Tasks.Extensions.xml
